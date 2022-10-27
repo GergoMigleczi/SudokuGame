@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/SudokuGame/bin/Debug/netcoreapp3.1/SudokuGame.deps.json
+/Users/migleczigergo/Projects/SudokuGame/bin/Debug/netcoreapp3.1/SudokuGame.runtimeconfig.json
+/Users/migleczigergo/Projects/SudokuGame/bin/Debug/netcoreapp3.1/SudokuGame.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/SudokuGame/bin/Debug/netcoreapp3.1/SudokuGame.dll
+/Users/migleczigergo/Projects/SudokuGame/bin/Debug/netcoreapp3.1/SudokuGame.pdb
+/Users/migleczigergo/Projects/SudokuGame/obj/Debug/netcoreapp3.1/SudokuGame.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/SudokuGame/obj/Debug/netcoreapp3.1/SudokuGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/SudokuGame/obj/Debug/netcoreapp3.1/SudokuGame.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/SudokuGame/obj/Debug/netcoreapp3.1/SudokuGame.AssemblyInfo.cs
+/Users/migleczigergo/Projects/SudokuGame/obj/Debug/netcoreapp3.1/SudokuGame.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/SudokuGame/obj/Debug/netcoreapp3.1/SudokuGame.dll
+/Users/migleczigergo/Projects/SudokuGame/obj/Debug/netcoreapp3.1/SudokuGame.pdb
+/Users/migleczigergo/Projects/SudokuGame/obj/Debug/netcoreapp3.1/SudokuGame.genruntimeconfig.cache
